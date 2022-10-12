@@ -1,0 +1,1 @@
+utilizare el campo de review para describir y mostrar a los guias afiliados a la pagina.
